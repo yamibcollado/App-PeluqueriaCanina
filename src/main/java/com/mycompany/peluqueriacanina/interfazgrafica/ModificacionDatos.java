@@ -126,7 +126,7 @@ public class ModificacionDatos extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\admin\\Desktop\\Java + PHPmyAdmin\\p1.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("D:\\A_UserData\\Documentos\\NetBeansProjects\\PeluqueriaCanina\\src\\main\\imagenes\\p1.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
